@@ -1,4 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-  const element = document.querySelector('.heading-style-h2');
+  const element = document.querySelector('.hero-title');
   element.style.color = '#007aff !important';
 });
